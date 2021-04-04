@@ -8,7 +8,7 @@ Hello! My name is Prashanth Rajan.
 I am from the Bay Area. I recently declared **Economics** as a second major after taking some econ classes as a breadth requirement. I play tennis for fun. I like solving coding problems (although I feel like I should spend a lot more time doing this). I am home at the moment but am really excited to come back to San Diego in Fall quarter. I hope I spend more time at the *beach* and ***learn to surf***
 
 ## Here is the photo I use for almost everything
-![Prashanth Face](prashanthface.jpg)
+![Prashanth Face](prashanthface.jpeg)
 
 ## Hobbies
 
