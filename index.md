@@ -10,9 +10,9 @@ I am from the Bay Area. I recently declared **Economics** as a second major afte
 ## Here is the photo I use for almost everything
 ![Prashanth Face](prashanthface.jpeg)
 
-## Hobbies
+## Interests
 
-Below are some of my hobbies I will write about  
+Below are some of my interests I will write about  
 * Tennis
 * Disney
 * Scripting
