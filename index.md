@@ -19,8 +19,8 @@ Below are some of my hobbies I will write about
 
 ### Tennis
 
-***I like to watch and play tennis***<br>
-**My favorite player is _Roger Federer_ from Switzerland**
+***I like to watch and play tennis.***<br>
+**My favorite player is _Roger Federer_ from Switzerland**.
 
 ### Disney
 I love Disney movies.  
