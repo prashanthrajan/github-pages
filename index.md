@@ -41,7 +41,7 @@ echo "bash script is cool!"
 2. C
 
 ## Some Languages I want to get familiar with
-- [X] C
+- [X] C++
 - [ ] Python
 - [ ] Swift
 
