@@ -49,6 +49,8 @@ echo "bash script is cool!"
 
 Here is [my LinkedIn](https://www.linkedin.com/in/rajanprashanth/)
 
+[Back to top](#prashanth-rajan)
+
 [Here's the readme](./README.md)
 
 
